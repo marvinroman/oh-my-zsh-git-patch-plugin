@@ -1,6 +1,10 @@
 # Git patch
 Adds custom functions and aliases to git plugin.
 
+## Installation
+
+git clone https://github.com/marvinroman/oh-my-zsh-git-patch-plugin.git ~/.oh-my-zsh/custom/plugins/git-patch
+
 ## Aliases
 Alias | Full Command | Use | Description
 --- | --- | --- | ---
